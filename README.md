@@ -28,7 +28,7 @@ Les idées les plus folles sont les bienvenues:
 https://www.facebook.com/groups/hypercubeevolutionfr/
 https://www.facebook.com/groups/Hypercubeevolution/
 
-Pour conclure : je tiens à rappeler que nous sommes manière bénévole et que ce n'est pas notre travail, nous sommes vous tous qui passez par ici, je vous remercie donc par avance pour votre bienveillance et votre participation active à l'évolution du bébé.
+Pour conclure : je tiens à rappeler que nous sommes bénévoles et que ce n'est pas notre travail, nous sommes comme vous tous qui passez par ici, je vous remercie donc par avance pour votre bienveillance et votre participation active à l'évolution du bébé.
 
 Pour me Soutenir:
 
