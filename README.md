@@ -1,4 +1,5 @@
-![37905761_10216954878807359_7801124987225505792_n](https://user-images.githubusercontent.com/37265911/104993820-b7dcfb00-5a23-11eb-9312-f33bc75f93aa.png)
+<img width="908" alt="Logo Ngen" src="https://user-images.githubusercontent.com/37265911/104995157-1efbaf00-5a26-11eb-96e4-e7b031c7e322.png">
+
 ### **La Machine:**
 ![Capture3](https://user-images.githubusercontent.com/37265911/104992994-6849ff80-5a22-11eb-82df-90620f8d209f.JPG)
 
