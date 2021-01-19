@@ -1,4 +1,4 @@
-__Hypercube Evo Ngen (NedalLive Genertion)
+__Hypercube Evo Ngen (NedalLive Genertion)__
 
 C'est une imprimante Core XY inspirée du modèle de SCOTT 3D qui s'est lui même inspiré de TECH2C.
 Bien que certaines pièces gardent un design similaire, l'ensemble a été redessiné intégralement et est conçu pour être assemblé avec des Écrous M3.
@@ -15,16 +15,17 @@ https://cults3d.com/fr/mod%C3%A8le-3d/divers/hypercube-evo-ngen-step-files
 Notez que la tête vierge est disponible gratuitement dans le dossier Tips du Zip
 
 __Capacité d'impression__ 
--328x328x300mm
+328x328x300mm
 
 __Les nouveautés et points forts__
--Bowden Court de 400mm
--Tête Magnétique à remplacement rapide
--Chariots renforcées
--Refroidissement Hotend
--Refroidissement pièces
--Electronique intégré
--Accessibilité de maintenance.
+Bowden Court de 400mm
+Caisson fermé integralement
+Tête Magnétique à remplacement rapide
+Chariots renforcées
+Refroidissement Hotend compacte
+Refroidissement pièces
+Electronique intégré
+Accessibilité de maintenance.
 
 Châssis en profilé 3030 B-Type Slot 8
 Support de Bed en profilé 2020 B-Type Slot 6
