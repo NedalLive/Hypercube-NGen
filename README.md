@@ -4,12 +4,10 @@
 ### Les têtes d'origine
 ![Ngen V2 All Head Front](https://user-images.githubusercontent.com/37265911/104992983-62ecb500-5a22-11eb-874d-db3c791258cc.PNG)
 
-__Hypercube Evo Ngen (NedalLive Genertion)__
+###__Hypercube Evo Ngen (NedalLive Genertion) 328x328x300mm__
 
 Dans ce développement, j'ai souhaité fournir à tous la possibilité d'avoir une imprimante 3D DIY dans un caisson, avec la liste des meilleurs ingrediant à moindre cout que j'ai pu essayé au cours du temps (Electronique, Extrudeur, Hotend) mais également de fournir des plans et Nomenclatures détaillés. Petit plus, vous trouverez également les Fichiers de DXF de découpe de plaques et les noms des fournisseurs pouvant réaliser la prestation, au meilleur coût que j'ai pu trouver.
 J'ai également souhaité fournir quelques plans de montage permettant au plus novice de pouvoir ce lancer sans aucun doute dans l'assemblage du châssis.
-
-__Capacité d'impression 328x328x300mm__
 
 * Bowden Court de 400mm.
 * Caisson fermé integralement.
