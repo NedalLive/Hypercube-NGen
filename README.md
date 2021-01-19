@@ -1,4 +1,4 @@
-#__Hypercube Evo Ngen (NedalLive Genertion)__
+#titre__Hypercube Evo Ngen (NedalLive Genertion)__
 
 C'est une imprimante Core XY inspirée du modèle de SCOTT 3D qui s'est lui même inspiré de TECH2C.
 Bien que certaines pièces gardent un design similaire, l'ensemble a été redessiné intégralement et est conçu pour être assemblé avec des Écrous M3.
