@@ -1,3 +1,9 @@
+### **La Machine:**
+![Capture3](https://user-images.githubusercontent.com/37265911/104992994-6849ff80-5a22-11eb-82df-90620f8d209f.JPG)
+
+### Les têtes d'origine
+![Ngen V2 All Head Front](https://user-images.githubusercontent.com/37265911/104992983-62ecb500-5a22-11eb-874d-db3c791258cc.PNG)
+
 __Hypercube Evo Ngen (NedalLive Genertion)__
 
 Dans ce développement, j'ai souhaité fournir à tous la possibilité d'avoir une imprimante 3D DIY dans un caisson, avec la liste des meilleurs ingrediant à moindre cout que j'ai pu essayé au cours du temps (Electronique, Extrudeur, Hotend) mais également de fournir des plans et Nomenclatures détaillés. Petit plus, vous trouverez également les Fichiers de DXF de découpe de plaques et les noms des fournisseurs pouvant réaliser la prestation, au meilleur coût que j'ai pu trouver.
