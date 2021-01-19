@@ -8,7 +8,7 @@
 
 ### Hypercube Evo Ngen (NedalLive Genertion) 328x328x300mm
 
-Dans ce développement, j'ai souhaité fournir à tous la possibilité d'avoir une imprimante 3D DIY dans un caisson, avec la liste des meilleurs ingrediant à moindre cout que j'ai pu essayé au cours du temps (Electronique, Extrudeur, Hotend) mais également de fournir des plans et Nomenclatures détaillés. Petit plus, vous trouverez également les Fichiers de DXF de découpe de plaques et les noms des fournisseurs pouvant réaliser la prestation, au meilleur coût que j'ai pu trouver.
+Dans ce développement, j'ai souhaité fournir à tous la possibilité d'avoir une imprimante 3D DIY dans un caisson, avec la liste des meilleurs ingrediant à moindre cout que j'ai pu essayé au cours du temps (Electronique, Extrudeur, Hotend) mais également de fournir des plans et Nomenclatures détaillés. Petit plus, vous trouverez également les Fichiers de DXF de découpe de plaques et les fournisseurs qui propose la prestation.
 J'ai également souhaité fournir quelques plans de montage permettant au plus novice de pouvoir ce lancer sans aucun doute dans l'assemblage du châssis.
 
 * Bowden Court de 400mm.
