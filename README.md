@@ -6,7 +6,7 @@
 ### Les têtes d'origine
 ![Ngen V2 All Head Front](https://user-images.githubusercontent.com/37265911/104992983-62ecb500-5a22-11eb-874d-db3c791258cc.PNG)
 
-### Hypercube Evo Ngen (NedalLive Genertion) 300x300x300
+### Hypercube Ngen (NedalLive Genertion) 300x300x300
 
 * Bowden Court de 400mm.
 * Caisson fermé integralement.
