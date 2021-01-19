@@ -1,4 +1,4 @@
-#__Hypercube Evo Ngen (NedalLive Genertion)__#
+__Hypercube Evo Ngen (NedalLive Genertion)__
 
 C'est une imprimante Core XY inspirée du modèle de SCOTT 3D qui s'est lui même inspiré de TECH2C.
 Bien que certaines pièces gardent un design similaire, l'ensemble a été redessiné intégralement et est conçu pour être assemblé avec des Écrous M3.
@@ -9,24 +9,19 @@ Seront développées très prochainement des Têtes Laser, double extrusion et D
 Dans ce développement, j'ai souhaité fournir à tous la possibilité d'avoir une imprimante 3D DIY dans un caisson, avec la liste des meilleurs ingrediant à moindre cout que j'ai pu essayé au cours du temps (Electronique, Extrudeur, Hotend) mais également de fournir des plans et Nomenclatures détaillés. Petit plus, vous trouverez également les Fichiers de DXF de découpe de plaques et les noms des fournisseurs pouvant réaliser la prestation, au meilleur coût que j'ai pu trouver.
 J'ai également souhaité fournir quelques plans de montage permettant au plus Novice de pouvoir ce lancer sans aucun doute dans l'assemblage du châssis.
 
-Pour les développeur j'ai mis à disposition l’intégralité des pièces au format Step.
-https://cults3d.com/fr/mod%C3%A8le-3d/divers/hypercube-evo-ngen-step-files
-
-Notez que la tête vierge est disponible gratuitement dans le dossier Tips du Zip
-
-#__Capacité d'impression__#
+__Capacité d'impression__
 328x328x300mm
 
-#__Les nouveautés et points forts__#
-*Bowden Court de 400mm.
-*Caisson fermé integralement.
-*Tête Magnétique à remplacement rapide
-*Chariots renforcées
-*Refroidissement Hotend compacte
-*Refroidissement pièces
-*Electronique intégré
-*Accessibilité de maintenance.
-*MultiTête devellopé par la communoté
+__Les nouveautés et points forts__
+* Bowden Court de 400mm.
+* Caisson fermé integralement.
+* Tête Magnétique à remplacement rapide
+* Chariots renforcées
+* Refroidissement Hotend compacte
+* Refroidissement pièces
+* Electronique intégré
+* Accessibilité de maintenance.
+* MultiTête devellopé par la communoté
 
 Châssis en profilé 3030 B-Type Slot 8
 Support de Bed en profilé 2020 B-Type Slot 6
