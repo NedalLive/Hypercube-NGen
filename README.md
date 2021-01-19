@@ -11,9 +11,9 @@
 * Bowden Court de 400mm.
 * Caisson fermé integralement.
 * Tête Magnétique à remplacement rapide
-* MultiTêtes develloppées par la communoté
+* MultiTêtes develloppées par la communauté
 * Bowden
-* Direct Drive
+* Direct Drive BMG, Titan aero et Hemera
 * Hotend E3DV6
 * Hotend AIO
 * Hotend Dragon
