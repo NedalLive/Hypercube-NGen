@@ -1,4 +1,4 @@
-__Hypercube Evo Ngen (NedalLive Genertion)__
+###__Hypercube Evo Ngen (NedalLive Genertion)__###
 
 C'est une imprimante Core XY inspirée du modèle de SCOTT 3D qui s'est lui même inspiré de TECH2C.
 Bien que certaines pièces gardent un design similaire, l'ensemble a été redessiné intégralement et est conçu pour être assemblé avec des Écrous M3.
@@ -14,34 +14,28 @@ https://cults3d.com/fr/mod%C3%A8le-3d/divers/hypercube-evo-ngen-step-files
 
 Notez que la tête vierge est disponible gratuitement dans le dossier Tips du Zip
 
-__Capacité d'impression__ 
+##__Capacité d'impression__## 
 328x328x300mm
 
-__Les nouveautés et points forts__
-Bowden Court de 400mm
-Caisson fermé integralement
-Tête Magnétique à remplacement rapide
-Chariots renforcées
-Refroidissement Hotend compacte
-Refroidissement pièces
-Electronique intégré
-Accessibilité de maintenance.
+##__Les nouveautés et points forts__##
+*Bowden Court de 400mm.
+*Caisson fermé integralement.
+*Tête Magnétique à remplacement rapide
+*Chariots renforcées
+*Refroidissement Hotend compacte
+*Refroidissement pièces
+*Electronique intégré
+*Accessibilité de maintenance.
+*MultiTête devellopé par la communoté
 
 Châssis en profilé 3030 B-Type Slot 8
 Support de Bed en profilé 2020 B-Type Slot 6
 Plaque de fermeture Avant et Latérale en DIBOND Alu brossé
-Un kit châssis sera prochainement disponible sur le site http://www.Systeal.com
-Les plaques Dibond peuvent être commandées chez https://gen3d.fr/boutique/
-Je remercie avant tout ma femme et sa patience à toutes épreuves et je sais que je ne suis pas le seul dans ce cas !
-
-Je remercie également les partenaires industriels qui acceptent de jouer le jeu et avec qui il me reste encore un peu de travail afin de finir de mettre au point des Kits que vous pourrez acheter en un clic.
-http://www.systeal.com/fr/
-http://www.systeal.com/fr/kits-imprimantes-3d/1242-kit-hypercube-evo-ngen.html
-
-https://gen3d.fr/categorie-produit/plaquage-hypercube-ngen/
+Un kit châssis disponible sur le site http://www.systeal.com/fr/kits-imprimantes-3d/1242-kit-hypercube-evo-ngen.html
+Les plaques Dibond peuvent être commandées chez https://gen3d.fr/categoaquarie-produit/plge-hypercube-ngen/
 
 Avant de conclure, je remercie les Administrateurs et l'ensemble des membres des groupes ci-dessous qui m'on fait grandir, si je suis en capacité de vous proposer cela aujourd'hui c'est avant tous grâce à vous tous qui m'avez poussé à toujours faire plus avec des idées toujours plus folles !
 https://www.facebook.com/groups/hypercubeevolutionfr/
 https://www.facebook.com/groups/Hypercubeevolution/
 
-Pour conclure : je tiens à rappeler que je fais ça de manière bénévole et que ce n'est pas mon travail, je suis comme vous tous qui passez par ici, je vous remercie donc par avance pour votre bienveillance et votre participation active à l'évolution du bébé.
+Pour conclure : je tiens à rappeler que nous sommes manière bénévole et que ce n'est pas notre travail, nous sommes vous tous qui passez par ici, je vous remercie donc par avance pour votre bienveillance et votre participation active à l'évolution du bébé.
