@@ -1,6 +1,6 @@
 __Le contenue de ce dossier n'est pas encore Partagé, il est reservé à l'equipe de Dev. c'est à vos risques et periles !__
 
-## Pour les Developpeur
+## Pour les Developpeurs
 Creer un dossier pour chaques sujet en cour de Dev
 Y ajouter un README.md qui contien une explication succinte du projet en cours
 
