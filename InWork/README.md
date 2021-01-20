@@ -5,6 +5,9 @@ Creer un dossier pour chaques sujet en cour de Dev
 Y ajouter un README.md qui contien une explication succinte du projet en cours
 
 ## Explication de l'arborescence des Repères
+Les N° de Repere de 0001 a 0999 sont des pièces Fabriquées
+Les N° de Repere de 1000 à 9999 sont des Elements standards (acheter)
+
 * A001 - Chassis
   * C001 Support Poulie AV V2
   * C002 Suppor Poulie AR V2
