@@ -1,4 +1,4 @@
-__Le contenue de ce dossier n'est pas encore Partagé, il est reservé à l'equipe de Dev. c'est à vos risques et periles !__
+__Le contenu de ce dossier n'est pas encore Partagé, il est reservé à l'equipe de Dev. c'est à vos risques et periles !__
 
 ## Pour les Developpeurs
 Creer un dossier pour chaques sujet en cour de Dev
