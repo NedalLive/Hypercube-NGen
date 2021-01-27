@@ -1,1 +1,1 @@
-Creator: {Dupe true} {HART true}
+https://www.thingiverse.com/thing:4014481
