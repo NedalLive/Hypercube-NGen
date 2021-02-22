@@ -20,6 +20,8 @@ Nombre de périmètre : 4
 
 Remplissage : 25%
 
+Attention au sens d'impression des chariots, regardez la capture d'écran disponible montrant le sens d'impression
+
 
 Modification of Y carriages:
 
@@ -42,3 +44,6 @@ Layer height: 0.20mm
 Number of perimeter: 4
 
 Infill: 25%
+
+Pay attention to the printing direction of the carriages, see the screenshot available showing the printing direction
+
