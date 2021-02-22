@@ -16,7 +16,7 @@ Buse : 0,4mm
 
 Hauteur de couche : 0,20mm
 
-Nombre de perimetre : 4
+Nombre de périmètre : 4
 
 Remplissage : 25%
 
