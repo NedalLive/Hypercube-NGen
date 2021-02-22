@@ -1,8 +1,8 @@
 Modification des chariots Y :
 
-Utilisation de poulies (de marques Mellow) 2GT alésage de 5mm pour courroie de 6mm 
-Alignement des poulies des chariots avec les nouveaux supports de poulies AV/AR
+Utilisation de poulies (de marques Mellow) 2GT alésage de 5mm pour courroie de 6mm
 
+Alignement des poulies des chariots Y avec les nouveaux supports de poulies AV/AR
 
 Assurez vous d'avoir une imprimante bien calibrée:
 
@@ -20,6 +20,7 @@ Remplissage : 25%
 Modification of Y carriages:
 
 Use of pulleys (Mellow brands) 2GT 5mm bore for 6mm belt
+
 Alignment of carriage pulleys with new front / rear pulley brackets
 
 Make sure you have a well calibrated printer:
